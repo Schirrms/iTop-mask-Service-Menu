@@ -5,7 +5,7 @@
 	<classes>
 	</classes>
 	<menus>
-		<menu id="ServiceManagement" xsi:type="MenuGroup" _delta="delete">
+		<menu id="ServiceManagement" _delta="delete_if_exists">
 		</menu>
 	</menus>
 	<user_rights>
