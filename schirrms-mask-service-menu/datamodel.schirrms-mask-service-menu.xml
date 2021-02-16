@@ -5,7 +5,7 @@
 	<classes>
 	</classes>
 	<menus>
-		<menu id="ServiceManagement" _delta="must_exists">
+		<menu id="ServiceManagement" _delta="must_exist">
 		</menu>
 		<menu id="Service:Overview" xsi:type="DashboardMenuNode" _delta="delete">
 		</menu>
