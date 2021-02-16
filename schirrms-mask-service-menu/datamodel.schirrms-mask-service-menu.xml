@@ -5,7 +5,25 @@
 	<classes>
 	</classes>
 	<menus>
-		<menu id="ServiceManagement" _delta="delete_if_exists">
+		<menu id="ServiceManagement" _delta="must_exists">
+		</menu>
+		<menu id="Service:Overview" xsi:type="DashboardMenuNode" _delta="delete">
+		</menu>
+		<menu id="CustomerContract" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="ProviderContract" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="ServiceFamily" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="Service" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="ServiceSubcategory" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="SLA" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="SLT" xsi:type="OQLMenuNode" _delta="delete">
+		</menu>
+		<menu id="DeliveryModel" xsi:type="OQLMenuNode" _delta="delete">
 		</menu>
 	</menus>
 	<user_rights>
